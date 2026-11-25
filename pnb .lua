@@ -341,7 +341,7 @@ function SendInfoPNB()
   local payload = {
     embeds = {
       {
-        title = "<a:verifieds:1407221429568536616> PNB LOG",
+        title = "<a:verify1:1194823074810445935> PNB LOG",
         fields = {
           {name = "<:npc:1471371280786788405> Account", value = tostring(Nick), inline = false},
           {name = "<:mgp:1194831769858494464> Information", value = tostring(WorldName), inline = false},
