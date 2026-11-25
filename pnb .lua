@@ -51,9 +51,9 @@ MaxGems = 200000
 ConvertDLAt = 100
 
 --[Webhook][butuh MakeRequest & os]
-WebhookPNB = true
-WebhookUrl = "https://discord.com/api/webhooks/1532060254970445845/A1-9I43FIVQ-_T6-qRG9QVZU8gRaUAkEE38oXkO4-SRNjUnfOFfFBYxBbMdRfOIoUhkb"
-DiscordID = "460068402631933989"
+WebhookPNB = false
+WebhookUrl = ""
+DiscordID = ""
 --[Menit antar laporan]
 DelayWebhook = 5
 --[Kirim notif saat reconnect]
