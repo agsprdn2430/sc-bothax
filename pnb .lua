@@ -31,7 +31,7 @@ GetPosTEL = false
 --[Cheat Option]
 AutoBuff = false
 AutoRemote = true
-NoGemsDrop = true
+NoGemsDrop = false
 IgnoreOther = false
 AntiLag = false
 MirrorPNB = true
